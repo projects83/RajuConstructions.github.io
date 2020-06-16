@@ -1,0 +1,61 @@
+head {
+    padding: 0%;
+    margin: 0px;
+}
+
+.bgimg {
+    background-image: url(../Raju\ Constructions/images/bg.png);
+    background-attachment: fixed;
+    width: 100%;
+    height: 760px;
+}
+
+.container {
+    color: black;
+    font-family: Roboto, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    padding-top: 230px;
+    font-family: italic Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+h3 {
+    text-align: center;
+}
+
+.button {
+    border-color: white;
+    outline: 0;
+    display: flex;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.column {
+    float: center;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+
+.text {
+    color: black;
+    font-family: Roboto, sans-serif;
+    font-size: medium;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.com {
+    padding: bottom 50px;
+    ;
+}
